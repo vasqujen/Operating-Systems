@@ -1,6 +1,6 @@
 //  Jennifer Vasquez
 //  Compile Command: gcc JVasquez_prj1_sec13_src.c
-//                   ./a.out sourceFile destinationFile
+//  ./a.out sourceFile destinationFile
 
 #include <stdio.h>
 #include <fcntl.h>
